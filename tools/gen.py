@@ -5,10 +5,10 @@ ADDR = 'Michel Nguyen<br>Minh Nguyen Studios<br>Windmühlenstr. 74<br>07937 Zeul
 MAIL = '<a href="mailto:mip@gmx.biz">mip@gmx.biz</a>'
 
 T = {
- 'de': dict(tag='Rätselspiel für Android', home='Startseite', support='Hilfe &amp; Support', privacy='Datenschutz',
+ 'de': dict(tag='Rätselspiel für Windows und Android', home='Startseite', support='Hilfe &amp; Support', privacy='Datenschutz',
             imprint='Impressum', skip='Zum Inhalt', other='en', otherlabel='EN', otheraria='Switch to English',
             foot='Keine Cookies, keine Tracker, keine externen Skripte.', country='Deutschland', locale='de_DE'),
- 'en': dict(tag='Puzzle game for Android', home='Home', support='Help &amp; Support', privacy='Privacy',
+ 'en': dict(tag='Puzzle game for Windows and Android', home='Home', support='Help &amp; Support', privacy='Privacy',
             imprint='Legal notice', skip='Skip to content', other='de', otherlabel='DE', otheraria='Auf Deutsch wechseln',
             foot='No cookies, no trackers, no external scripts.', country='Germany', locale='en_US'),
 }
