@@ -53,4 +53,4 @@ address{font-style:normal}
 @media (max-width:420px){.brand small{display:none}.links{gap:10px}}
 
 .store{margin:1rem 0}
-.store img{display:block;height:48px;width:auto}
+.store img{display:block;height:64px;width:auto}
