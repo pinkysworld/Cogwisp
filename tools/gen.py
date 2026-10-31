@@ -1,6 +1,6 @@
 import os
 ROOT = os.path.expanduser('~/Developer/_sites/Cogwisp')
-BASE = 'https://pinkysworld.github.io/Cogwisp/'
+BASE = 'https://minh.systems/Cogwisp/'
 ADDR = 'Michel Nguyen<br>Minh Nguyen Studios<br>Windmühlenstr. 74<br>07937 Zeulenroda-Triebes<br>{country}'
 MAIL = '<a href="mailto:mip@gmx.biz">mip@gmx.biz</a>'
 
