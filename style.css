@@ -51,3 +51,6 @@ address{font-style:normal}
   .hero{padding-top:28px}
 }
 @media (max-width:420px){.brand small{display:none}.links{gap:10px}}
+
+.store{margin:1rem 0}
+.store img{display:block;height:48px;width:auto}
